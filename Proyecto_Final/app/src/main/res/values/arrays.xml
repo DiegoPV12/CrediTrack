@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency_array">
+        <item>Bolivianos</item>
+        <item>Dólar</item>
+    </string-array>
+
+    <string-array name="color_array">
+        <item>Amarillo</item>
+        <item>Azul</item>
+        <item>Naranja</item>
+        <item>Púrpura</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+    </string-array>
+</resources>

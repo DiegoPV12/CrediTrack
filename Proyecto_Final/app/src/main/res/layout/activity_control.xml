@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnRegisterPaymentActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register Payment Activity" />
+
+    <Button
+        android:id="@+id/btnRegisterPurchaseActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register Purchase Activity" />
+
+    <Button
+        android:id="@+id/btnRegisterActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register Activity" />
+
+    <Button
+        android:id="@+id/btnOnBoardingActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OnBoarding Activity" />
+
+    <Button
+        android:id="@+id/btnProfileActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Profile Activity" />
+
+    <Button
+        android:id="@+id/btnLoginSuccessActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login Success Activity" />
+
+    <Button
+        android:id="@+id/btnChangePasswordActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change Password Activity" />
+
+    <Button
+        android:id="@+id/btnLoginActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login Activity" />
+
+    <Button
+        android:id="@+id/btnEditProfileActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Edit Profile Activity" />
+
+    <Button
+        android:id="@+id/btnHomeActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Home Activity" />
+
+    <Button
+        android:id="@+id/btnregisterCardActivity"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:text="register card" />
+
+</LinearLayout>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CrediTrack</string>
+    <string name="description">Registra y gestiona tus pagos con tarjetas de crédito</string>
+    <string name="email">ejemplo@email.com</string>
+    <string name="caracteres">Al menos 8 caracteres</string>
+</resources>
